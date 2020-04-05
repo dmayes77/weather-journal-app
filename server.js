@@ -4,10 +4,6 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const port = 3000;
 
-const zipCode = 37411;
-const apiKey = '2d1d3290bbd02b9aec6bd465616bed65';
-const weatherURL = `api.openweathermap.org/data/2.5/weather?zip=${zipCode},us&appid=${apiKey}`;
-
 // Setup empty JS object to act as endpoint for all routes
 projectData = {};
 

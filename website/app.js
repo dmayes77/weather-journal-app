@@ -1,5 +1,4 @@
 /* Global Variables */
-const apiKey = '2d1d3290bbd02b9aec6bd465616bed65';
 
 // Create a new date instance dynamically with JS
 
